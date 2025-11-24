@@ -7,7 +7,8 @@
 수집 데이터:
 - 중국 항공사
   - Air China: https://www.airchina.kr/KR/KO/info/news/?NEWS_CATEGORY=KoreaSite
-  - Chhina Eastern: https://kr.ceair.com/newCMS/kr/ko/content/ko_News/TravelAlert/  
+  - Chhina Eastern: https://kr.ceair.com/newCMS/kr/ko/content/ko_News/TravelAlert/
+  - 중국남방항공: https://www.csair.com/mcms/mcmsNewSite/ko/kr/#/about/news/notice/notice_2025
 - 일본 항공사
 - 한국 항공사
 - 그외 일부 항공사
